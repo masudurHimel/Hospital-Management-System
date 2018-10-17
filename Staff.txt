@@ -1,0 +1,20 @@
+Rubel
+Male
+Intern
+256
+18
+01515288761
+mizanurruble@gmail.com
+Cantonment Dhaka
+20000.0
+Tue Aug 22 03:56:31 BDT 2017
+Koyel
+Female
+Intern
+130
+30
+01976532640
+munirakoyel@gmail.com
+Tejgaon, Dhaka
+35000.0
+Tue Aug 22 03:57:20 BDT 2017
